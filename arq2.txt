@@ -1,0 +1,1 @@
+removido o arq1.txt e comentado no arq2.txt
